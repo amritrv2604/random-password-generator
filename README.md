@@ -9,13 +9,12 @@
 
 - Creates strong, randomly generated passwords.
 - Includes various character types (uppercase, lowercase, numbers, symbols) to enhance security.
-- Easily copies the generated password for immediate use.
 - A simple and intuitive design for effortless password creation.
 
 
 ## Screenshots
 
-![Password generator project](https://github.com/amritrv2604/random-password-generator/blob/main/images/project.png?raw=true)
+![Password generator project](https://github.com/amritrv2604/random-password-generator/blob/main/images/projectImg.png?raw=true)
 - This is what the interface looks like.
 
 
